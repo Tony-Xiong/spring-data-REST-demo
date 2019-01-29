@@ -1,6 +1,6 @@
 package com.xyz.model.entity;
 
-import com.xyz.model.pojo.Team;
+import com.xyz.model.embed.Team;
 import lombok.Data;
 
 import javax.persistence.Entity;

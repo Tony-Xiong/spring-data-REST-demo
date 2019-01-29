@@ -1,4 +1,4 @@
-package com.xyz.model.pojo;
+package com.xyz.model.embed;
 
 import lombok.Data;
 

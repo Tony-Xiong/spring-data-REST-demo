@@ -1,6 +1,6 @@
 package com.xyz.model.entity;
 
-import com.xyz.model.pojo.Address;
+import com.xyz.model.embed.Address;
 import lombok.Data;
 
 import javax.persistence.Entity;

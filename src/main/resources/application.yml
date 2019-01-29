@@ -1,0 +1,15 @@
+server:
+  port: 8081
+spring:
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/test
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.jdbc.Driver
+  data:
+    rest:
+      base-path: /api/v1
